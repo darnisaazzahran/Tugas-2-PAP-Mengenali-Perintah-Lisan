@@ -32,3 +32,10 @@ record_dataset.py                      ← file pembuatan database
 README.md                              ← dokumentasi
 
 Hasil Analisis.md                      ← laporan hasil analisis dari tugas
+
+## 💻 Instalasi dan Persiapan
+
+### 1️⃣ Clone Repositori
+git clone https://github.com/<username>/pengenalan-perintah-lisan.git
+cd pengenalan-perintah-lisan
+
