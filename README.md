@@ -36,6 +36,14 @@ Hasil Analisis.md                      ← laporan hasil analisis dari tugas
 ## 💻 Instalasi dan Persiapan
 
 ### 1️⃣ Clone Repositori
-git clone https://github.com/<username>/pengenalan-perintah-lisan.git
-cd pengenalan-perintah-lisan
+`git clone https://github.com/<username>/Tugas-2-PAP-Mengenali-Perintah-Lisan.git`
 
+`cd Tugas-2-PAP-Mengenali-Perintah-Lisan`
+
+### 🚀 Cara Menjalankan Program
+
+##### 🎤 2️⃣ Pengenalan dari Rekaman Langsung dan 🎧 Pengenalan dari File Audio
+
+`python recognize_command_choicerecord.py`
+
+Program akan menampilkan pilihan, yaitu melakukan pengenalan suara langsung dengan merekam suara dari mikrofon atau Program akan membaca file audio `.wav` dan menampilkan hasil pengenalan serta jarak ke tiap kelas.
